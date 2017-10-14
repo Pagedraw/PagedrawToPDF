@@ -1,0 +1,14 @@
+{
+  "name": "PagedrawToPDF",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "babel-preset-es2015": "^6.24.1",
+    "express": "^4.16.2",
+    "pagedraw": "^1.0.1",
+    "puppeteer": "^0.11.0",
+    "react": "^16.0.0",
+    "react-dom": "^16.0.0"
+  }
+}
